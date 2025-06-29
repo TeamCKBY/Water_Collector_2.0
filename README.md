@@ -1,3 +1,5 @@
+![Demo_for_readme](https://github.com/user-attachments/assets/9cf5927c-635a-4c4c-bbe5-5b2324bba3e8)
+
 To use the bot plese follow the instruction on our discord: https://discord.gg/7jGEtEhy
 
 Para usar el bot sigue las instrucciones en el discord: https://discord.gg/7jGEtEhy
