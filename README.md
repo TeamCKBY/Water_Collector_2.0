@@ -1,5 +1,6 @@
-to use this please send follow the instruction on our discord: https://discord.gg/7jGEtEhy
-Para user el bot sigue las instrucciones en el discord: https://discord.gg/7jGEtEhy
+To use the bot plese follow the instruction on our discord: https://discord.gg/7jGEtEhy
+
+Para usar el bot sigue las instrucciones en el discord: https://discord.gg/7jGEtEhy
 
 Water Collector 2.0 is a premium bot that automatically detects wells, moves between maps, and collects water in Dofus Unity, so you can focus on other things while Clickberry handles the grind.
 
